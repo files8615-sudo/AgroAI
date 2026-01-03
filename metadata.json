@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AgroAI",
+  "description": "An AI-driven crop disease prediction and management system helping farmers identify diseases and receive treatment plans.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
